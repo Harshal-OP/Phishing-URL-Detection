@@ -71,7 +71,6 @@ get_scores(ExtraTreesClassifier)
 
 get_scores(RandomForestClassifier)
 
-!pip install streamlit
 
 import streamlit as st
 
